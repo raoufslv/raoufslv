@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdallah Abderraouf
-- 👀 I’m interested in computer science specialy programming language
+- 👀 I’m interested in computer science specialy programming languages
 - 🌱 I’m currently learning Web dev
 - 💞️ I’m looking to collaborate on web/app dev
 - 📫 How to reach me raoufslv09@gmail.com
