@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Fullstack web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raoufslv&label=Profile%20views&color=0e75b6&style=flat" alt="raoufslv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoufslv" alt="raoufslv" /></a> </p>
-
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://raouf-abdallah.netlify.app/](https://raouf-abdallah.netlify.app/)
