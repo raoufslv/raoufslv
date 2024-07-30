@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoufslv&label=Profile%20views&color=0e75b6&style=flat" alt="raoufslv" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://raouf-abdallah.netlify.app/](https://raouf-abdallah.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://raoufabdallah.me/](https://raoufabdallah.me/)
 
 - 💬 Ask me about **web dev**
 
