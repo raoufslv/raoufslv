@@ -20,11 +20,11 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Backend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,symfony,laravel,java,spring"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,symfony,laravel,java"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Frontend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,nextjs,redux,jquery,graphql"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Database</td>
@@ -40,7 +40,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">mobile</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Other Programmation languages</td>
